@@ -7,7 +7,7 @@ namespace GitTest
 {
 	public class GitTest : MonoBehaviour
 	{
-		private string str = "First";
+		private string str = "Update";
 	}
 }
 
